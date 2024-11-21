@@ -1,5 +1,5 @@
 This is a change by guru
-Added 'x' to f1
+Added 'y' to f1
 command to add files to the staging area
 
 if you want to add a specific file
